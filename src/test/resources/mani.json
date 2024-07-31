@@ -1,0 +1,26 @@
+{
+	"name": "mani",
+	"email": "maini@gmial.com",
+	"phoneNo": 99999999,
+	"add": [
+		{
+			"streetName": "1st",
+			"district": "Karur",
+			"state": "TamilNadu"
+		},
+		{
+			"streetName": "2nd",
+			"district": "Chennai",
+			"state": "TamilNadu"
+		},
+		{
+			"streetName": "3rd",
+			"district": "tuty",
+			"state": "tamilnady"
+		}
+	],
+	"comp": {
+		"companyName": "Wipro",
+		"id": 1234
+	}
+}
